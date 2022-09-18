@@ -14,7 +14,6 @@
     /* Інше */
 }
 
-
 /* Стилі для index.html */
 body {
     color: var(--main-txt-color);
@@ -45,19 +44,13 @@ body {
 }
 
 
-
-
 .header-box {
     display: flex;
     width: 1200px;
     padding-right: 15px;
     padding-left: 15px;
     align-items: center;
-
-
 }
-
-
 
 .link-header {
     color: black;
@@ -76,13 +69,10 @@ body {
     color: var(--accent-color);
     margin-top: 0;
     margin-bottom: 0;
-
 }
 
 .list {
-
     margin: 0;
-
 }
 
 ul {
@@ -102,8 +92,6 @@ img {
 
 .nav {
     margin-right: auto;
-
-
 }
 
 .nav-list {
@@ -111,7 +99,6 @@ img {
     gap: 50px;
     padding: 0;
     align-items: center;
-
 }
 
 
@@ -122,9 +109,6 @@ img {
     font-size: 14px;
     line-height: calc(16/14);
     letter-spacing: 0.02em;
-
-
-
 }
 
 
@@ -132,7 +116,6 @@ img {
     display: block;
     margin-top: 32px;
     margin-bottom: 32px;
-
 }
 
 
@@ -141,8 +124,6 @@ img {
     display: flex;
     align-items: center;
     gap: 50px;
-
-
 }
 
 .nav,
@@ -151,7 +132,6 @@ img {
     font-weight: 500;
     display: block;
     align-items: baseline;
-
 }
 
 .current {
@@ -161,8 +141,6 @@ img {
     font-size: 14px;
     line-height: calc(16/14);
     letter-spacing: 0.02em;
-
-
 }
 
 .nav .link:hover,
@@ -170,9 +148,6 @@ img {
     color: var(--accent-color);
 
 }
-
-
-
 
 .link-mail:hover,
 .link-mail:focus,
@@ -190,11 +165,9 @@ img {
     padding: 32px 0;
 }
 
-
 .link-tel:hover {
     color: var(--accent-color);
 }
-
 .link-tel {
     color: var(--main-txt-color);
     font-weight: 500;

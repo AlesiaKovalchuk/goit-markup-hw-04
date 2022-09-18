@@ -46,9 +46,6 @@ body {
 
 .header-box {
     display: flex;
-    width: 1200px;
-    padding-right: 15px;
-    padding-left: 15px;
     align-items: center;
 }
 
@@ -131,7 +128,6 @@ img {
     color: var(--header-color);
     font-weight: 500;
     display: block;
-    align-items: baseline;
 }
 
 .current {
@@ -338,16 +334,12 @@ img {
 .section-work {
 
     padding-top: 0;
-    padding-bottom: 94px;
-
-
 }
 
 /* Наша команда */
 .section-about {
     background-color: var(--add-bg-color);
-    margin-top: 0;
-    margin-bottom: 0;
+    
 }
 
 .container-team {

@@ -578,28 +578,6 @@ address {
     margin-bottom: 0px;
 }
 
-
-.link-footer:hover,
-.link-footer:focus {
-    color: var(--accent-color);
-    text-decoration: none;
-}
-
-.link-footer {
-    display: block;
-    color: var(--add-color);
-    text-decoration: none;
-    font-size: 14px;
-    line-height: calc(24/14);
-
-
-}
-
-
-.footer-item :not(:nth-last-child) {
-    margin-bottom: 9px;
-}
-
 .social {
     margin-left: 70px;
 

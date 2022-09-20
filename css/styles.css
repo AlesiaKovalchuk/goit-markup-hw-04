@@ -153,6 +153,8 @@ img {
 }
 
 .link-mail {
+    display:flex;
+    align-items:center;
     color: var(--main-txt-color);
     text-decoration: none;
     font-weight: 500;

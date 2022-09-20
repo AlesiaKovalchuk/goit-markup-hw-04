@@ -657,7 +657,7 @@ address {
 
 .element {
     display:block;
-    text-decoration:none
+    text-decoration:none;
 }
 .element:hover,
 .element :focus {

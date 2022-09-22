@@ -108,14 +108,11 @@ img {
     letter-spacing: 0.02em;
 }
 
-
 .nav-item {
     display: block;
     margin-top: 32px;
     margin-bottom: 32px;
 }
-
-
 
 .list-contacts {
     display: flex;
@@ -177,14 +174,11 @@ img {
     padding: 32px 0;
     display: flex;
 }
-
-
 .mail-icon {
     fill: currentColor;
     margin-right: 10px;
 
 }
-
 .tel-icon {
     fill: currentColor;
     margin-right: 10px;

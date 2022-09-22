@@ -178,10 +178,6 @@ img {
     display: flex;
 }
 
-.link-mail,
-.link-tel {
-    display: block
-}
 
 .mail-icon {
     fill: currentColor;
